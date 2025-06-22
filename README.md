@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Portfolio Website
 
 A modern portfolio website built with React, featuring a custom cursor and smooth animations.
@@ -69,5 +68,3 @@ portfolio-website/
 - Styled Components
 - Framer Motion 
 =======
-# Haziq-Portfolio-Website
->>>>>>> fb6cce53da119f58ab9ffc73b47aee186ddd77ba
