@@ -67,4 +67,3 @@ portfolio-website/
 - React Router
 - Styled Components
 - Framer Motion 
-=======
